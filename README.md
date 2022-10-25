@@ -9,7 +9,8 @@
 
 > - :basketball: I love basktball. I was federated for 5 years in a base team and of course i'm a Blazer's fun. Go Rip City!
 > - :racing_car: I recently started following F1 races.
-> - :video_game: Always playing some games. But my favorites are the sandbox ones
+> - :video_game: I'm always playing something in my free time.
+> - :toolbox: My favorite type of game is sandbox.
 
 <h4>🌱 I’m currently learning</h4>
 
