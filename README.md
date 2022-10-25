@@ -7,9 +7,9 @@
 
 <h4>⚡ Fun fact's</h4>
 
-> - :basketball: I love basktball. I was federated for 5 years in a base team and of course i'm a blazer fun. Go Rip City!
-> - :racing_car: I recently started following f1 races.
-> - :video_game: Everytime i play something. But my favorites are the sandbox ones
+> - :basketball: I love basktball. I was federated for 5 years in a base team and of course i'm a Blazer's fun. Go Rip City!
+> - :racing_car: I recently started following F1 races.
+> - :video_game: Always playing some games. But my favorites are the sandbox ones
 
 <h4>🌱 I’m currently learning</h4>
 
