@@ -20,7 +20,7 @@
 
 <h4>:x: ~~~~ How to Reach Me ~~~~  :sailboat:</h4>
 
-> <a href="www.linkedin.com/in/luansevero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+> <a href="https://www.linkedin.com/in/luansevero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 
 <h2>Language & Tools</h2>
 
