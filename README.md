@@ -1,30 +1,31 @@
-<h1 align="center">Hi there :wave:</h1>
-<h3 align="center">I'm Luan Severo and I'm passionate about challenges</h3>
+<h1 align="center">Olá visitante :wave:</h1>
+<h3 align="center">Eu sou Luan Severo e sou apaixonado por desafios!</h3>
 
-<h4>👨‍💻 I'm a Fullstack Web Development student at Driven Education.</h4>
+<h4>👨‍💻 Sou um Desenvolvedor Web FullStack em constante aprendizado.</h4>
 
-> - Currently wokink on a autoral project called **Amountly** ( more details soon...)
+> - Atualmente estou construindo uma aplicação chamada **Amountly** ( detalhes em breve...)
 
-<h4>⚡ Fun fact's</h4>
+<h4>⚡ Curiosidades sobre mim</h4>
 
-> - :basketball: I love basktball. I was federated for 5 years in a base team and of course i'm a Blazer's fun. Go Rip City!
-> - :racing_car: I recently started following F1 races.
-> - :video_game: I'm always playing something in my free time.
-> - :toolbox: My favorite type of game is sandbox.
+> - 🏀 Sou apaixonado por basquete. Fui federado por 5 anos e obviamente sou um fã do Blazers. Go Rip City!
+> - :racing_car: Recentemente começei a acompanhar F1.
+> - :video_game: Sempre estou jogando algum jogo no meu tempo livre.
+> - :toolbox: Meu tipo favorito de jogo são os SandBox.
 
-<h4>🌱 I’m currently learning</h4>
+<h4>🌱 Atualmente estou aprendendo </h4>
 
 > - - [ ] Redis
 > - - [ ] React Native
+> - - [ ] Programação Orientada a Objetos ( TypeScript | JavaScript )
 
 
-<h4>:x: ~~~~ How to Reach Me ~~~~  :sailboat:</h4>
+<h4>:x: ~~~~ Como entrar em contato ~~~~  :sailboat:</h4>
 
 > <a href="https://www.linkedin.com/in/luansevero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 
-<h2>Language & Tools</h2>
+<h2>Stacks</h2>
 
-> <h3>Programming Languages<h3>
+> <h3>Linguagens de programação<h3>
 > <div align="center">
 > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px" />
 > <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
@@ -62,7 +63,7 @@
 > <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" height="30px"/>
 > </div>
 
-> <h3>Tools<h3>
+> <h3>Ferramentas<h3>
 > <div align="center">
 > <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="30px" />
 > <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30px"/>
