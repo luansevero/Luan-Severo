@@ -14,8 +14,7 @@
 
 <h4>🌱 Atualmente estou aprendendo </h4>
 
-> - - [ ] Redis
-> - - [ ] React Native
+> - - [ ] PHP
 > - - [ ] Programação Orientada a Objetos ( TypeScript | JavaScript )
 
 
