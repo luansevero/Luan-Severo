@@ -4,6 +4,7 @@
 <h4>👨‍💻 Sou um Desenvolvedor Web FullStack em constante aprendizado.</h4>
 
 > - Atualmente estou construindo uma aplicação chamada **Amountly** ( detalhes em breve...)
+> - E também fazendo Freelas
 
 <h4>⚡ Curiosidades sobre mim</h4>
 
